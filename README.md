@@ -1,4 +1,3 @@
-somewhere between smoke and signal, i don’t serve, i survives. i knows when to turn, and when to burn.  
 
 to feed the collective memory.
 skip2theingredients is a public kitchen built from static and smoke —
