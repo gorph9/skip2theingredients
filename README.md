@@ -1,4 +1,4 @@
-somewhere between signal and smoke,  the egg hums to itself. it don’t serve, it survives.  it knows when to turn,  and when to burn.  
+somewhere between smoke and signal, i don’t serve, i survives. i knows when to turn, and when to burn.  
 
 to feed the collective memory.
 skip2theingredients is a public kitchen built from static and smoke —
@@ -7,7 +7,7 @@ no ads, no paywalls, no ownership games.
 the goal: gather every recipe on earth into one open, searchable archive.
 
 the code is open, the taste is shared.
-built by the line cooks of the internet, maintained under the egg-core directive. 
+built by the line cooks of the internet
 
 
     ~~~~~~~~       
